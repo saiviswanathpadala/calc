@@ -1,5 +1,5 @@
 
-LINK HERE TO ACCESS THE CALCULATOR: https://dice-ebon.vercel.app/
+LINK HERE TO ACCESS THE CALCULATOR: https://newreact-tau.vercel.app/
 
 # Getting Started with Create React App
 
