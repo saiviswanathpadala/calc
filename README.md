@@ -1,5 +1,5 @@
 
-## LINK HERE TO ACCESS THE CALCULATOR: https://newreact-tau.vercel.app/
+## Link to access MyCalculator : https://newreact-tau.vercel.app/
 
 # Getting Started with Create React App
 
