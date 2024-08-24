@@ -4,6 +4,7 @@
   align-items: center;
   height: 100vh;
   flex-direction: column;
+  user-select: none;
 }
 .output {
   outline: none;
@@ -27,20 +28,20 @@ button {
   border-top: 1px solid #666;
   border-right: 1px solid #666;
 }
-.digit:hover{
+.digit:hover {
   background-color: #d9d9d9;
 }
-.operator:hover{
+.operator:hover {
   background-color: #c7790f;
 }
-.func-key:hover{
+.func-key:hover {
   background-color: #aba9a9;
 }
 .operator {
   border-right: none;
   background-color: #fb9419;
-  color:white;
+  color: white;
 }
-.func-key{
+.func-key {
   background-color: #c9c8cc;
 }
